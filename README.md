@@ -1,2 +1,3 @@
 # Duplicate_Replika_v1
 一个包含了duplicateAPP和一个建立在linux服务器上的后台python程序，用来与replika上自己的AI实时中文聊天。
+先安装app，然后就可以直接用。登录后若邮箱密码正确等待20s左右可以进入。
