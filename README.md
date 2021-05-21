@@ -1,0 +1,2 @@
+# Duplicate_Replika_v1
+一个包含了duplicateAPP和一个建立在linux服务器上的后台python程序，用来与replika上自己的AI实时中文聊天。
