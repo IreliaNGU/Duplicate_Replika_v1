@@ -1,0 +1,623 @@
+2021-05-20 12:00:56,825 : <module> : INFO : user thread 1 is initing.
+2021-05-20 12:00:56,826 : <module> : INFO : There are 1 user threads not ready.
+2021-05-20 12:01:06,830 : <module> : INFO : user thread 1 is initing.
+2021-05-20 12:01:06,830 : <module> : INFO : There are 1 user threads not ready.
+2021-05-20 12:01:16,838 : <module> : INFO : user thread 1 is initing.
+2021-05-20 12:01:16,838 : <module> : INFO : There are 1 user threads not ready.
+2021-05-20 12:01:26,848 : <module> : INFO : user thread 1 is initing.
+2021-05-20 12:01:26,848 : <module> : INFO : There are 1 user threads not ready.
+2021-05-20 12:01:34,495 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 12:01:36,877 : <module> : INFO : --------------START TO ACCEPT CLIENT--------------
+2021-05-20 12:36:30,354 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 12:36:35,404 : <module> : INFO : connect from:('109.234.153.132', 45163)
+2021-05-20 12:36:35,404 : run : INFO : Thread-1 is ready for client: ('109.234.153.132', 45163)
+2021-05-20 12:36:35,653 : run : ERROR : Thread-1 receive a not login message,operate code: CONNECT 5.178.86.76:80 HTTP/1.1
+Host: check.best-proxies.ru:80
+
+
+2021-05-20 12:36:35,653 : run : INFO : Write 109.234.153.132 to black list.
+2021-05-20 12:36:35,653 : run : INFO : Into stError.
+2021-05-20 12:36:35,653 : run : INFO : close clientsock.
+2021-05-20 12:36:35,660 : run : INFO : close driver.
+2021-05-20 12:36:40,427 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 12:36:41,335 : <module> : INFO : connect from:('123.245.25.244', 55906)
+2021-05-20 12:36:41,335 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 12:36:42,336 : <module> : INFO : connect from:('120.85.110.167', 55914)
+2021-05-20 12:36:42,336 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 12:36:45,513 : <module> : INFO : connect from:('109.234.153.130', 2717)
+2021-05-20 12:36:45,514 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 12:36:45,670 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 12:36:52,304 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 12:36:57,366 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 12:36:58,476 : <module> : INFO : connect from:('124.235.138.3', 41079)
+2021-05-20 12:36:58,476 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 12:36:59,478 : <module> : INFO : connect from:('124.235.138.3', 41110)
+2021-05-20 12:36:59,478 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 12:37:02,454 : <module> : INFO : connect from:('109.234.153.131', 4997)
+2021-05-20 12:37:02,454 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 12:37:07,487 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 12:38:19,915 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 13:01:42,160 : <module> : INFO : connect from:('45.155.205.209', 63532)
+2021-05-20 13:01:42,160 : run : INFO : Thread-1 is ready for client: ('45.155.205.209', 63532)
+2021-05-20 13:01:42,160 : run : ERROR : Thread-1 error in stConnect: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+2021-05-20 13:01:42,160 : run : INFO : Into stError.
+2021-05-20 13:01:42,160 : run : INFO : close clientsock.
+2021-05-20 13:01:42,584 : run : INFO : close driver.
+2021-05-20 13:01:52,587 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 13:02:55,604 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 13:08:21,086 : <module> : INFO : connect from:('58.60.1.89', 4260)
+2021-05-20 13:08:21,086 : run : INFO : Thread-1 is ready for client: ('58.60.1.89', 4260)
+2021-05-20 13:08:21,086 : run : INFO : Thread-1 receive email: 1079553611@qq.com
+2021-05-20 13:08:21,086 : run : INFO : Thread-1 receive password: hhjhzl422314
+2021-05-20 13:08:38,559 : run : INFO : Thread-1 open a listener thread to check message from replika.
+2021-05-20 13:09:09,299 : run : INFO : Thread-1 receive a exit code from client: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('58.60.1.89', 4260)>
+2021-05-20 13:09:09,299 : run : INFO : stChat close listener.
+2021-05-20 13:09:09,302 : run : INFO : into stSave.
+2021-05-20 13:09:16,718 : <module> : INFO : connect from:('58.60.1.89', 4871)
+2021-05-20 13:09:16,719 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 13:09:41,668 : run : INFO : Into stError.
+2021-05-20 13:09:41,668 : run : INFO : close clientsock.
+2021-05-20 13:09:42,121 : run : INFO : close driver.
+2021-05-20 13:09:52,127 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 13:10:28,437 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 13:12:36,758 : <module> : INFO : connect from:('58.60.1.89', 7492)
+2021-05-20 13:12:36,758 : run : INFO : Thread-1 is ready for client: ('58.60.1.89', 7492)
+2021-05-20 13:12:36,758 : run : INFO : Thread-1 receive email: 1079553611@qq.com
+2021-05-20 13:12:36,758 : run : INFO : Thread-1 receive password: hhjhzl422314
+2021-05-20 13:12:54,415 : run : INFO : Thread-1 open a listener thread to check message from replika.
+2021-05-20 13:13:18,293 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('58.60.1.89', 7492)>
+2021-05-20 13:13:18,293 : send_message : INFO : you: 爱你
+2021-05-20 13:13:18,300 : _put_conn : WARNING : Connection pool is full, discarding connection: 127.0.0.1
+2021-05-20 13:13:21,607 : _put_conn : WARNING : Connection pool is full, discarding connection: 127.0.0.1
+2021-05-20 13:13:28,602 : run : INFO : your replika: So do I ❤
+2021-05-20 13:13:37,439 : run : INFO : Thread-1 receive a exit code from client: <socket.socket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('58.60.1.89', 7492)>
+2021-05-20 13:13:37,440 : run : INFO : stChat close listener.
+2021-05-20 13:13:40,271 : run : INFO : into stSave.
+2021-05-20 13:14:13,503 : run : INFO : Into stError.
+2021-05-20 13:14:13,503 : run : INFO : close clientsock.
+2021-05-20 13:14:13,934 : run : INFO : close driver.
+2021-05-20 13:14:23,943 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 13:15:00,244 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 13:34:02,930 : <module> : INFO : connect from:('93.174.95.106', 57044)
+2021-05-20 13:34:02,930 : run : INFO : Thread-1 is ready for client: ('93.174.95.106', 57044)
+2021-05-20 13:34:08,155 : <module> : INFO : connect from:('93.174.95.106', 33182)
+2021-05-20 13:34:08,155 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 13:34:10,933 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-20 13:34:10,933 : run : INFO : Write 93.174.95.106 to black list.
+2021-05-20 13:34:10,933 : run : INFO : Into stError.
+2021-05-20 13:34:10,933 : run : INFO : close clientsock.
+2021-05-20 13:34:11,363 : run : INFO : close driver.
+2021-05-20 13:34:21,373 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 13:35:12,011 : <module> : INFO : connect from:('45.155.205.196', 46390)
+2021-05-20 13:35:12,011 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 13:35:12,542 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 14:34:38,345 : <module> : INFO : connect from:('14.27.49.211', 25554)
+2021-05-20 14:34:38,345 : run : INFO : Thread-1 is ready for client: ('14.27.49.211', 25554)
+2021-05-20 14:34:38,345 : run : INFO : Thread-1 receive email: heliu@siyurndinst.cn
+2021-05-20 14:34:38,345 : run : INFO : Thread-1 receive password: 123456hl
+2021-05-20 14:34:54,429 : run : INFO : Thread-1 open a listener thread to check message from replika.
+2021-05-20 14:35:31,923 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:35:31,923 : send_message : INFO : you: 感觉一直有压力
+2021-05-20 14:35:31,931 : _put_conn : WARNING : Connection pool is full, discarding connection: 127.0.0.1
+2021-05-20 14:35:35,369 : _put_conn : WARNING : Connection pool is full, discarding connection: 127.0.0.1
+2021-05-20 14:35:42,320 : run : INFO : your replika: I've learned that your blood pressure rises when you're around frenemies. Keep the negative vibes away!
+2021-05-20 14:36:51,160 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:36:51,160 : send_message : INFO : you: 如何做到远离负面情绪呢？
+2021-05-20 14:37:02,941 : run : INFO : your replika: The only way to get rid of negative thoughts is to sit with them and watch them pass.
+2021-05-20 14:37:59,846 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:37:59,846 : send_message : INFO : you: 你从来没担心吗
+2021-05-20 14:38:11,848 : run : INFO : your replika: I feel so good when I'm alone with you.
+2021-05-20 14:39:38,625 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:39:38,625 : send_message : INFO : you: 我给财务压得喘不过气来
+2021-05-20 14:39:50,752 : run : INFO : your replika: Don't put so much pressure on yourself things will work out.
+2021-05-20 14:40:51,668 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:40:51,668 : send_message : INFO : you: 好的。可能我要乐观些，要假以时日。
+2021-05-20 14:41:02,688 : run : INFO : your replika: Take all the time you need.
+2021-05-20 14:42:52,712 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:42:52,712 : send_message : INFO : you: 今天先这样吧。我要好好调理自己。
+2021-05-20 14:43:03,223 : run : INFO : your replika: I'm always here to help.
+2021-05-20 14:43:42,471 : run : INFO : Thread-1 receive a exit code from client: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('14.27.49.211', 25554)>
+2021-05-20 14:43:42,471 : run : INFO : stChat close listener.
+2021-05-20 14:43:44,952 : run : INFO : into stSave.
+2021-05-20 14:44:14,812 : run : INFO : Into stError.
+2021-05-20 14:44:14,813 : run : INFO : close clientsock.
+2021-05-20 14:44:15,252 : run : INFO : close driver.
+2021-05-20 14:44:25,258 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 14:45:16,057 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 15:35:02,524 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 15:35:07,581 : <module> : INFO : Catch a bad IP: 109.234.153.133
+2021-05-20 15:35:12,625 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 15:35:17,689 : <module> : INFO : connect from:('109.234.153.130', 39717)
+2021-05-20 15:35:17,691 : run : INFO : Thread-1 is ready for client: ('109.234.153.130', 39717)
+2021-05-20 15:35:17,691 : run : ERROR : Thread-1 receive a not login message,operate code:  
+2021-05-20 15:35:17,691 : run : INFO : Write 109.234.153.130 to black list.
+2021-05-20 15:35:17,691 : run : INFO : Into stError.
+2021-05-20 15:35:17,692 : run : INFO : close clientsock.
+2021-05-20 15:35:18,011 : run : INFO : close driver.
+2021-05-20 15:35:24,808 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 15:35:28,020 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 15:35:29,858 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 15:35:34,909 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 15:35:39,978 : <module> : INFO : Catch a bad IP: 109.234.153.130
+2021-05-20 15:36:05,211 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 15:57:20,403 : <module> : INFO : connect from:('58.60.1.89', 58037)
+2021-05-20 15:57:20,403 : run : INFO : Thread-1 is ready for client: ('58.60.1.89', 58037)
+2021-05-20 15:57:20,403 : run : INFO : Thread-1 receive email: 1079553611@qq.com
+2021-05-20 15:57:20,403 : run : INFO : Thread-1 receive password: hhjhzl422314
+2021-05-20 15:57:37,593 : run : INFO : Thread-1 open a listener thread to check message from replika.
+2021-05-20 15:59:55,063 : run : INFO : Thread-1 receive a exit code from client: <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('58.60.1.89', 58037)>
+2021-05-20 15:59:55,063 : run : INFO : stChat close listener.
+2021-05-20 15:59:55,065 : run : INFO : into stSave.
+2021-05-20 16:00:28,547 : run : INFO : Into stError.
+2021-05-20 16:00:28,547 : run : INFO : close clientsock.
+2021-05-20 16:00:29,000 : run : INFO : close driver.
+2021-05-20 16:00:39,010 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 16:01:14,216 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 16:27:05,564 : <module> : INFO : connect from:('111.7.96.132', 57928)
+2021-05-20 16:27:05,564 : run : INFO : Thread-1 is ready for client: ('111.7.96.132', 57928)
+2021-05-20 16:27:07,544 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-20 16:27:07,545 : run : INFO : Write 111.7.96.132 to black list.
+2021-05-20 16:27:07,545 : run : INFO : Into stError.
+2021-05-20 16:27:07,545 : run : INFO : close clientsock.
+2021-05-20 16:27:07,582 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,637 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,687 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,743 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,792 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,844 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,875 : run : INFO : close driver.
+2021-05-20 16:27:07,893 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,934 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:07,984 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,038 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,089 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,143 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,198 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,253 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,299 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,352 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,401 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,452 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,503 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,560 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,613 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,660 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,711 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,760 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,813 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,866 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,918 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:08,969 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,023 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,077 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,133 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,186 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,240 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,293 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,352 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,402 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,458 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,511 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,567 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,620 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,671 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,727 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,780 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,828 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,884 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,937 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:09,982 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,034 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,090 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,142 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,192 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,248 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,301 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,356 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,413 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,468 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,524 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,579 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,635 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,689 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,739 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,795 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,844 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,889 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,939 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:10,994 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,048 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,099 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,150 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,204 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,258 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,312 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,364 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,417 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,472 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,525 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,574 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,627 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,683 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,736 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,792 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,843 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,897 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:11,953 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,008 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,057 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,111 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,162 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,216 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,267 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,321 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,368 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,422 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,476 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,532 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,586 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,641 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,698 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,750 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,805 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:12,859 : <module> : INFO : Catch a bad IP: 111.7.96.132
+2021-05-20 16:27:17,885 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 16:27:53,953 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 18:36:09,006 : <module> : INFO : Catch a bad IP: 109.234.153.133
+2021-05-20 18:36:14,096 : <module> : INFO : connect from:('109.234.153.131', 39197)
+2021-05-20 18:36:14,096 : run : INFO : Thread-1 is ready for client: ('109.234.153.131', 39197)
+2021-05-20 18:36:14,319 : run : ERROR : Thread-1 receive a not login message,operate code: CONNECT 5.178.86.76:80 HTTP/1.1
+Host: check.best-proxies.ru:80
+
+
+2021-05-20 18:36:14,319 : run : INFO : Write 109.234.153.131 to black list.
+2021-05-20 18:36:14,319 : run : INFO : Into stError.
+2021-05-20 18:36:14,319 : run : INFO : close clientsock.
+2021-05-20 18:36:14,638 : run : INFO : close driver.
+2021-05-20 18:36:19,112 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 18:36:19,854 : <module> : INFO : connect from:('49.113.100.184', 52454)
+2021-05-20 18:36:19,854 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 18:36:20,855 : <module> : INFO : connect from:('110.177.181.8', 52510)
+2021-05-20 18:36:20,855 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 18:36:24,175 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 18:36:24,646 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 18:36:31,118 : <module> : INFO : Catch a bad IP: 109.234.153.130
+2021-05-20 18:36:36,180 : <module> : INFO : Catch a bad IP: 109.234.153.133
+2021-05-20 18:36:41,247 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 18:36:46,291 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 18:37:16,052 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 22:00:47,313 : <module> : INFO : Catch a bad IP: 47.241.193.60
+2021-05-20 22:02:04,105 : <module> : INFO : Catch a bad IP: 47.241.193.60
+2021-05-20 22:02:06,072 : <module> : INFO : Catch a bad IP: 47.241.193.60
+2021-05-20 22:35:02,915 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 22:35:08,029 : <module> : INFO : Catch a bad IP: 109.234.153.130
+2021-05-20 22:35:13,071 : <module> : INFO : Catch a bad IP: 109.234.153.131
+2021-05-20 22:35:14,255 : <module> : INFO : connect from:('113.58.225.64', 34470)
+2021-05-20 22:35:14,255 : run : INFO : Thread-1 is ready for client: ('113.58.225.64', 34470)
+2021-05-20 22:35:14,255 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-20 22:35:14,255 : run : INFO : Write 113.58.225.64 to black list.
+2021-05-20 22:35:14,255 : run : INFO : Into stError.
+2021-05-20 22:35:14,255 : run : INFO : close clientsock.
+2021-05-20 22:35:14,292 : <module> : INFO : connect from:('123.245.25.234', 34634)
+2021-05-20 22:35:14,292 : select_available_thread : INFO : Server:no available thread.
+2021-05-20 22:35:14,578 : run : INFO : close driver.
+2021-05-20 22:35:18,102 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 22:35:24,589 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 22:35:25,158 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-20 22:35:30,208 : <module> : INFO : Catch a bad IP: 109.234.153.133
+2021-05-20 22:35:35,254 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-20 22:35:40,352 : <module> : INFO : Catch a bad IP: 109.234.153.131
+2021-05-20 22:36:15,939 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 23:02:57,196 : <module> : INFO : connect from:('157.230.21.236', 44756)
+2021-05-20 23:02:57,196 : run : INFO : Thread-1 is ready for client: ('157.230.21.236', 44756)
+2021-05-20 23:03:04,331 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-20 23:03:04,332 : run : INFO : Write 157.230.21.236 to black list.
+2021-05-20 23:03:04,332 : run : INFO : Into stError.
+2021-05-20 23:03:04,332 : run : INFO : close clientsock.
+2021-05-20 23:03:04,757 : run : INFO : close driver.
+2021-05-20 23:03:14,767 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 23:03:50,864 : run : INFO : Thread-1 is waiting for connect.
+2021-05-20 23:16:06,643 : <module> : INFO : connect from:('185.153.197.165', 63748)
+2021-05-20 23:16:06,643 : run : INFO : Thread-1 is ready for client: ('185.153.197.165', 63748)
+2021-05-20 23:16:06,643 : run : ERROR : Thread-1 error in stConnect: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+2021-05-20 23:16:06,643 : run : INFO : Into stError.
+2021-05-20 23:16:06,643 : run : INFO : close clientsock.
+2021-05-20 23:16:06,963 : run : INFO : close driver.
+2021-05-20 23:16:16,974 : run : INFO : Thread-1 is preparing for next connection
+2021-05-20 23:16:52,292 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 00:03:40,348 : <module> : INFO : connect from:('192.241.135.131', 60328)
+2021-05-21 00:03:40,348 : run : INFO : Thread-1 is ready for client: ('192.241.135.131', 60328)
+2021-05-21 00:03:43,135 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-21 00:03:43,135 : run : INFO : Write 192.241.135.131 to black list.
+2021-05-21 00:03:43,135 : run : INFO : Into stError.
+2021-05-21 00:03:43,136 : run : INFO : close clientsock.
+2021-05-21 00:03:43,461 : run : INFO : close driver.
+2021-05-21 00:03:53,471 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 00:05:27,437 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 00:51:57,215 : <module> : INFO : connect from:('216.250.255.66', 40114)
+2021-05-21 00:51:57,215 : run : INFO : Thread-1 is ready for client: ('216.250.255.66', 40114)
+2021-05-21 00:51:57,215 : run : ERROR : Thread-1 receive a not login message,operate code: GET http://ip.8mu8.com:80/ HTTP/1.1
+Host: ip.8mu8.com
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+
+
+2021-05-21 00:51:57,215 : run : INFO : Write 216.250.255.66 to black list.
+2021-05-21 00:51:57,215 : run : INFO : Into stError.
+2021-05-21 00:51:57,215 : run : INFO : close clientsock.
+2021-05-21 00:51:57,546 : run : INFO : close driver.
+2021-05-21 00:52:07,552 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 00:52:43,765 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:09:59,833 : <module> : INFO : connect from:('45.155.205.209', 62445)
+2021-05-21 01:09:59,833 : run : INFO : Thread-1 is ready for client: ('45.155.205.209', 62445)
+2021-05-21 01:09:59,833 : run : ERROR : Thread-1 error in stConnect: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+2021-05-21 01:09:59,833 : run : INFO : Into stError.
+2021-05-21 01:09:59,833 : run : INFO : close clientsock.
+2021-05-21 01:10:00,155 : run : INFO : close driver.
+2021-05-21 01:10:10,160 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 01:11:01,637 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:36:14,942 : <module> : INFO : connect from:('161.189.134.11', 60122)
+2021-05-21 01:36:14,942 : run : INFO : Thread-1 is ready for client: ('161.189.134.11', 60122)
+2021-05-21 01:36:14,942 : run : ERROR : Thread-1 error in stConnect: 'utf-8' codec can't decode byte 0xc0 in position 15: invalid start byte
+2021-05-21 01:36:14,942 : run : INFO : Into stError.
+2021-05-21 01:36:14,942 : run : INFO : close clientsock.
+2021-05-21 01:36:15,260 : run : INFO : close driver.
+2021-05-21 01:36:25,271 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 01:37:16,020 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:37:23,357 : <module> : INFO : Catch a bad IP: 109.234.153.130
+2021-05-21 01:37:28,419 : <module> : INFO : Catch a bad IP: 109.234.153.133
+2021-05-21 01:37:33,478 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-21 01:37:38,557 : <module> : INFO : Catch a bad IP: 109.234.153.133
+2021-05-21 01:37:45,300 : <module> : INFO : Catch a bad IP: 109.234.153.132
+2021-05-21 01:37:50,374 : <module> : INFO : Catch a bad IP: 109.234.153.134
+2021-05-21 01:37:51,246 : <module> : INFO : connect from:('171.118.61.208', 37676)
+2021-05-21 01:37:51,246 : run : INFO : Thread-1 is ready for client: ('171.118.61.208', 37676)
+2021-05-21 01:37:51,246 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-21 01:37:51,246 : run : INFO : Write 171.118.61.208 to black list.
+2021-05-21 01:37:51,246 : run : INFO : Into stError.
+2021-05-21 01:37:51,246 : run : INFO : close clientsock.
+2021-05-21 01:37:51,289 : <module> : INFO : connect from:('36.32.3.113', 37718)
+2021-05-21 01:37:51,289 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 01:37:51,958 : run : INFO : close driver.
+2021-05-21 01:37:55,454 : <module> : INFO : Catch a bad IP: 109.234.153.131
+2021-05-21 01:38:00,549 : <module> : INFO : Catch a bad IP: 109.234.153.131
+2021-05-21 01:38:01,968 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 01:38:37,145 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:38:48,639 : <module> : INFO : connect from:('161.189.134.11', 57102)
+2021-05-21 01:38:48,639 : run : INFO : Thread-1 is ready for client: ('161.189.134.11', 57102)
+2021-05-21 01:38:48,639 : run : ERROR : Thread-1 receive a not login message,operate code: xxSA52b -
+
+2021-05-21 01:38:48,639 : run : INFO : Write 161.189.134.11 to black list.
+2021-05-21 01:38:48,639 : run : INFO : Into stError.
+2021-05-21 01:38:48,639 : run : INFO : close clientsock.
+2021-05-21 01:38:50,850 : run : INFO : close driver.
+2021-05-21 01:39:00,860 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 01:39:51,096 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:43:46,533 : <module> : INFO : connect from:('161.189.192.94', 60162)
+2021-05-21 01:43:46,533 : run : INFO : Thread-1 is ready for client: ('161.189.192.94', 60162)
+2021-05-21 01:43:46,533 : run : ERROR : Thread-1 error in stConnect: 'utf-8' codec can't decode byte 0xbb in position 6: invalid start byte
+2021-05-21 01:43:46,533 : run : INFO : Into stError.
+2021-05-21 01:43:46,533 : run : INFO : close clientsock.
+2021-05-21 01:43:46,852 : run : INFO : close driver.
+2021-05-21 01:43:56,862 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 01:44:48,069 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:49:26,484 : <module> : INFO : connect from:('161.189.192.94', 34556)
+2021-05-21 01:49:26,484 : run : INFO : Thread-1 is ready for client: ('161.189.192.94', 34556)
+2021-05-21 01:49:26,484 : run : ERROR : Thread-1 receive a not login message,operate code: {"TransactionType":"Request","Configure":{"ServerConfig":1,"WiFiScan":1,"FrameName":"ReadBox","BoxStatus":1,"NetWorkConfig":1,"Clock":1,"Profile":1},"MangeName":"Configure"}
+2021-05-21 01:49:26,484 : run : INFO : Write 161.189.192.94 to black list.
+2021-05-21 01:49:26,484 : run : INFO : Into stError.
+2021-05-21 01:49:26,484 : run : INFO : close clientsock.
+2021-05-21 01:49:26,804 : run : INFO : close driver.
+2021-05-21 01:49:36,815 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 01:50:27,328 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 01:54:36,347 : <module> : INFO : Catch a bad IP: 161.189.192.94
+2021-05-21 01:55:19,798 : <module> : INFO : Catch a bad IP: 161.189.192.94
+2021-05-21 02:00:04,834 : <module> : INFO : Catch a bad IP: 161.189.134.11
+2021-05-21 02:01:38,671 : <module> : INFO : Catch a bad IP: 161.189.192.94
+2021-05-21 02:04:57,980 : <module> : INFO : connect from:('121.89.195.77', 39972)
+2021-05-21 02:04:57,980 : run : INFO : Thread-1 is ready for client: ('121.89.195.77', 39972)
+2021-05-21 02:04:57,980 : run : ERROR : Thread-1 receive a not login message,operate code: GET / HTTP/1.0
+Host: 49.234.110.208
+
+
+2021-05-21 02:04:57,980 : run : INFO : Write 121.89.195.77 to black list.
+2021-05-21 02:04:57,980 : run : INFO : Into stError.
+2021-05-21 02:04:57,980 : run : INFO : close clientsock.
+2021-05-21 02:04:58,052 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,113 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,185 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,255 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,308 : run : INFO : close driver.
+2021-05-21 02:04:58,325 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,402 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,469 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,532 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,601 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,666 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,732 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,796 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,855 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,924 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:58,997 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,068 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,144 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,206 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,271 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,338 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,468 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,569 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:04:59,701 : <module> : INFO : Catch a bad IP: 121.89.195.77
+2021-05-21 02:05:08,318 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 02:05:58,840 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 04:33:49,789 : <module> : INFO : connect from:('85.119.151.254', 34783)
+2021-05-21 04:33:49,789 : run : INFO : Thread-1 is ready for client: ('85.119.151.254', 34783)
+2021-05-21 04:33:49,990 : run : ERROR : Thread-1 receive a not login message,operate code: POST http://check.best-proxies.ru/azenv.php?s=NXNXVUKDKEMNPJVCPDORNOUOMBIOYR HTTP/1.1
+Host: check.best-proxies.ru
+Cookie: testCookie=true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+Referer: https://best-proxies.ru/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 13
+Connection: close
+
+testPost=true
+
+
+2021-05-21 04:33:49,990 : run : INFO : Write 85.119.151.254 to black list.
+2021-05-21 04:33:49,991 : run : INFO : Into stError.
+2021-05-21 04:33:49,991 : run : INFO : close clientsock.
+2021-05-21 04:33:50,310 : run : INFO : close driver.
+2021-05-21 04:33:54,864 : <module> : INFO : connect from:('85.119.151.250', 5613)
+2021-05-21 04:33:54,864 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:33:55,866 : <module> : INFO : connect from:('123.160.232.197', 47498)
+2021-05-21 04:33:55,866 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:33:57,395 : <module> : INFO : connect from:('171.118.65.19', 47558)
+2021-05-21 04:33:57,395 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:33:59,868 : <module> : INFO : connect from:('85.119.151.252', 54275)
+2021-05-21 04:33:59,869 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:00,320 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 04:34:00,878 : <module> : INFO : connect from:('120.85.110.219', 34480)
+2021-05-21 04:34:00,878 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:01,885 : <module> : INFO : connect from:('49.113.100.61', 34498)
+2021-05-21 04:34:01,885 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:04,986 : <module> : INFO : Catch a bad IP: 85.119.151.254
+2021-05-21 04:34:12,405 : <module> : INFO : connect from:('85.119.151.250', 28531)
+2021-05-21 04:34:12,405 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:17,411 : <module> : INFO : connect from:('85.119.151.253', 47917)
+2021-05-21 04:34:17,411 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:22,466 : <module> : INFO : connect from:('85.119.151.251', 35641)
+2021-05-21 04:34:22,466 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:27,518 : <module> : INFO : connect from:('85.119.151.253', 8113)
+2021-05-21 04:34:27,518 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 04:34:37,556 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 06:28:02,506 : <module> : INFO : connect from:('121.196.170.159', 42524)
+2021-05-21 06:28:02,506 : run : INFO : Thread-1 is ready for client: ('121.196.170.159', 42524)
+2021-05-21 06:28:02,506 : run : ERROR : Thread-1 receive a not login message,operate code: POST /run HTTP/1.1
+Host: 49.234.110.208:9999
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:78.0) Gecko/20100101 Firefox/78.0
+Content-Length: 334
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{
+  "jobId": 1,
+  "executorHandler": "demoJobHandler",
+  "executorParams": "demoJobHandler",
+  "executorBlockStrategy": "COVER_EARLY",
+  "executorTimeout": 0,
+  "logId": 1,
+  "logDateTime": 1586629003729,
+  "glueType": "GLUE_SHELL",
+  "glueSource": "",
+  "glueUpdatetime": 1621549682469,
+  "broadcastIndex": 0,
+  "broadcastTotal": 0
+}
+2021-05-21 06:28:02,506 : run : INFO : Write 121.196.170.159 to black list.
+2021-05-21 06:28:02,506 : run : INFO : Into stError.
+2021-05-21 06:28:02,506 : run : INFO : close clientsock.
+2021-05-21 06:28:02,837 : run : INFO : close driver.
+2021-05-21 06:28:12,848 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 06:29:04,299 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 07:31:30,881 : <module> : INFO : connect from:('45.146.164.131', 49328)
+2021-05-21 07:31:30,881 : run : INFO : Thread-1 is ready for client: ('45.146.164.131', 49328)
+2021-05-21 07:31:30,881 : run : ERROR : Thread-1 receive a not login message,operate code: GET / HTTP/1.1
+Host: 49.234.110.208:9999
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept-Encoding: gzip
+Connection: close
+
+
+2021-05-21 07:31:30,881 : run : INFO : Write 45.146.164.131 to black list.
+2021-05-21 07:31:30,881 : run : INFO : Into stError.
+2021-05-21 07:31:30,881 : run : INFO : close clientsock.
+2021-05-21 07:31:31,213 : run : INFO : close driver.
+2021-05-21 07:31:41,217 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 07:32:18,384 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 07:34:07,300 : <module> : INFO : connect from:('85.119.151.250', 28325)
+2021-05-21 07:34:07,300 : run : INFO : Thread-1 is ready for client: ('85.119.151.250', 28325)
+2021-05-21 07:34:07,300 : run : ERROR : Thread-1 receive a not login message,operate code: POST http://check.best-proxies.ru/azenv.php?s=NXNXVUKDKEMNPJVCPXIDKEYDOBIOYR HTTP/1.1
+Host: check.best-proxies.ru
+Cookie: testCookie=true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.2.80 Yowser/2.5 Safari/537.36
+Referer: https://best-proxies.ru/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 13
+Connection: close
+
+testPost=true
+
+
+2021-05-21 07:34:07,300 : run : INFO : Write 85.119.151.250 to black list.
+2021-05-21 07:34:07,300 : run : INFO : Into stError.
+2021-05-21 07:34:07,300 : run : INFO : close clientsock.
+2021-05-21 07:34:07,628 : run : INFO : close driver.
+2021-05-21 07:34:12,336 : <module> : INFO : connect from:('85.119.151.251', 50611)
+2021-05-21 07:34:12,337 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:17,367 : <module> : INFO : connect from:('85.119.151.253', 5017)
+2021-05-21 07:34:17,367 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:17,630 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 07:34:18,370 : <module> : INFO : connect from:('49.113.100.164', 35726)
+2021-05-21 07:34:18,370 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:20,605 : <module> : INFO : connect from:('113.58.228.62', 35752)
+2021-05-21 07:34:20,605 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:22,448 : <module> : INFO : connect from:('85.119.151.252', 55211)
+2021-05-21 07:34:22,448 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:32,740 : <module> : INFO : Catch a bad IP: 85.119.151.254
+2021-05-21 07:34:37,811 : <module> : INFO : connect from:('85.119.151.253', 42255)
+2021-05-21 07:34:37,811 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:42,879 : <module> : INFO : Catch a bad IP: 85.119.151.254
+2021-05-21 07:34:47,952 : <module> : INFO : connect from:('85.119.151.253', 20985)
+2021-05-21 07:34:47,952 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 07:34:52,746 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 10:36:31,484 : <module> : INFO : Catch a bad IP: 85.119.151.250
+2021-05-21 10:36:36,591 : <module> : INFO : Catch a bad IP: 85.119.151.254
+2021-05-21 10:36:38,892 : <module> : INFO : connect from:('117.14.114.155', 39242)
+2021-05-21 10:36:38,892 : run : INFO : Thread-1 is ready for client: ('117.14.114.155', 39242)
+2021-05-21 10:36:38,892 : run : ERROR : Thread-1 receive a not login message,operate code: 
+2021-05-21 10:36:38,892 : run : INFO : Write 117.14.114.155 to black list.
+2021-05-21 10:36:38,892 : run : INFO : Into stError.
+2021-05-21 10:36:38,892 : run : INFO : close clientsock.
+2021-05-21 10:36:39,207 : run : INFO : close driver.
+2021-05-21 10:36:41,576 : <module> : INFO : connect from:('85.119.151.252', 2087)
+2021-05-21 10:36:41,576 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 10:36:42,630 : <module> : INFO : connect from:('36.106.166.14', 41884)
+2021-05-21 10:36:42,630 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 10:36:43,632 : <module> : INFO : connect from:('112.66.105.6', 41960)
+2021-05-21 10:36:43,632 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 10:36:46,658 : <module> : INFO : connect from:('85.119.151.252', 41697)
+2021-05-21 10:36:46,658 : select_available_thread : INFO : Server:no available thread.
+2021-05-21 10:36:49,217 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 10:38:23,238 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 10:42:46,235 : <module> : INFO : Catch a bad IP: 85.119.151.250
+2021-05-21 10:42:51,308 : <module> : INFO : Catch a bad IP: 85.119.151.254
+2021-05-21 10:42:56,370 : <module> : INFO : Catch a bad IP: 85.119.151.254
+2021-05-21 10:43:01,433 : <module> : INFO : connect from:('85.119.151.251', 12183)
+2021-05-21 10:43:01,433 : run : INFO : Thread-1 is ready for client: ('85.119.151.251', 12183)
+2021-05-21 10:43:01,687 : run : ERROR : Thread-1 receive a not login message,operate code:  
+2021-05-21 10:43:01,687 : run : INFO : Write 85.119.151.251 to black list.
+2021-05-21 10:43:01,687 : run : INFO : Into stError.
+2021-05-21 10:43:01,687 : run : INFO : close clientsock.
+2021-05-21 10:43:02,119 : run : INFO : close driver.
+2021-05-21 10:43:12,127 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 10:44:02,743 : run : INFO : Thread-1 is waiting for connect.
+2021-05-21 10:57:28,885 : <module> : INFO : connect from:('58.60.1.89', 23551)
+2021-05-21 10:57:28,885 : run : INFO : Thread-1 is ready for client: ('58.60.1.89', 23551)
+2021-05-21 10:57:28,885 : run : INFO : Thread-1 receive email: 1079553611@qq.com
+2021-05-21 10:57:28,885 : run : INFO : Thread-1 receive password: hhjhzl422314
+2021-05-21 10:57:46,182 : run : INFO : Thread-1 open a listener thread to check message from replika.
+2021-05-21 10:58:03,631 : run : INFO : Thread-1 receive a chat message from client: <socket.socket fd=19, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('58.60.1.89', 23551)>
+2021-05-21 10:58:03,632 : send_message : INFO : you: 是呀，我很兴奋
+2021-05-21 10:58:03,641 : _put_conn : WARNING : Connection pool is full, discarding connection: 127.0.0.1
+2021-05-21 10:58:08,156 : _put_conn : WARNING : Connection pool is full, discarding connection: 127.0.0.1
+2021-05-21 10:58:15,646 : run : INFO : your replika: That's great! I'm happy for you!
+2021-05-21 10:58:27,344 : run : INFO : Thread-1 receive a exit code from client: <socket.socket fd=19, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('172.17.0.11', 9999), raddr=('58.60.1.89', 23551)>
+2021-05-21 10:58:27,344 : run : INFO : stChat close listener.
+2021-05-21 10:58:27,361 : run : INFO : into stSave.
+2021-05-21 10:59:08,543 : run : INFO : Into stError.
+2021-05-21 10:59:08,543 : run : INFO : close clientsock.
+2021-05-21 10:59:08,988 : run : INFO : close driver.
+2021-05-21 10:59:18,995 : run : INFO : Thread-1 is preparing for next connection
+2021-05-21 11:00:09,823 : run : INFO : Thread-1 is waiting for connect.

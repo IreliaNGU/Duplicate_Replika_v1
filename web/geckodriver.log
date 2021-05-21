@@ -1,0 +1,6 @@
+1620191737427	geckodriver	INFO	Listening on 127.0.0.1:54525
+1620191737434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6icZc8"
+Running without a11y support!
+1620191741077	Marionette	INFO	Listening on port 45160
+1620191741249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620191742880	Marionette	INFO	Stopped listening on port 45160
